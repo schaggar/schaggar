@@ -4,7 +4,7 @@
 ### **About Me**
 
 ---
-Data professional with 14+ years of strong experience in building end to end Enterprise Data warehouses across multiple domains to drive advance analytics for business decisions. Experience in handling small to medium teams,  additionally, gained expertise working as individual contributor and currently working with Michelin India Pvt. Ltd. as Senior Manager - Customer Experience, responsible for Digital transformation, Data democratization and Application Modernization by adopting Azure Cloud Infrastructure.
+Data professional with 16+ years of strong experience in building end to end Enterprise Data warehouses across multiple domains to drive advance analytics for business decisions. Experience in handling small to medium teams,  additionally, gained expertise working as individual contributor and currently working with Michelin India Pvt. Ltd. as Senior Manager - Customer Experience, responsible for Digital transformation, Data democratization and Application Modernization by adopting Azure Cloud Infrastructure.
 
 #### Data Skills
 ETL pipelines, Expert in SQL, Teradata Utilities, SQL and Performance optimization, Unix, Perl, Python, ETL/BI Testing, Selenium WebDriver, Robot Framework, PySpark, Azure, AWS, Web scraping using Python, Talend, Informatica, Scrum Framework, HDFS, Kafka, Mongo DB, Cosmos DB, Handled Structured and Semi-Structured XML/JSON, GIT, SVN, JIRA, HP ALM.
